@@ -1,4 +1,4 @@
-# preeclampsia-risk-prediction
+# Preeclampsia Early Assessment of Risk from Liquid Biopsy (PEARL)
 PE_source_code
 System requirements
 Dependencies
