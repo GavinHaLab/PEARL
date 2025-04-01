@@ -1,8 +1,10 @@
 # Preeclampsia Early Assessment of Risk from Liquid Biopsy (PEARL)
 
 This repository contains code for the study:  
-Mohamed Adil, Teodora R. Kolarova, Anna-Lisa Doebley, Leah A. Chen, Cara Tobey, Patricia Galipeau, Sam Rosen, Michael Yang, Brice Colbert, Robert D. Patton, Thomas W. Persse, Erin Kawelo, Jonathan B. Reichel, Colin C. Pritchard, Shreeram Akilesh, Christina M. Lockwood, Gavin Ha†, Raj Shree†. <b>Preeclampsia risk prediction from non-invasive prenatal cell-free DNA screening.</b> Under Review.
 
+Mohamed Adil, Teodora R. Kolarova, Anna-Lisa Doebley, Leah A. Chen, Cara Tobey, Patricia Galipeau, Sam Rosen, Michael Yang, Brice Colbert, Robert D. Patton, Thomas W. Persse, Erin Kawelo, Jonathan B. Reichel, Colin C. Pritchard, Shreeram Akilesh, Christina M. Lockwood, Gavin Ha†, Raj Shree†.  
+<b>Preeclampsia risk prediction from non-invasive prenatal cell-free DNA screening.</b>   
+Nature Medicine. 2025 Feb 12. doi: [10.1038/s41591-025-03509-w](https://doi.org/10.1038/s41591-025-03509-w) Online ahead of print.
 
 
 ## System requirements
