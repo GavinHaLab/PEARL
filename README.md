@@ -28,7 +28,16 @@ xgboost	|	1.6.1
 Meta data - Supplementary_Tables.xlsx  
 Features data - Raw_feature_tables.xlsx  
 
+## Generate Input files:
+```bash
+python reconstruct_metadata.py       # → Supplementary_Tables_v2.xlsx
+python reconstruct_raw_features.py   # → Raw_feature_tables.xlsx
+```
+
 ## Installation guide  
+```bash
+pip install -r requirements.txt
+```
 Load jupyter notebook in jupyterlab  
 
 ## Demo/ Instructions for use  
