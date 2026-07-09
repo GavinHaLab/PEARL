@@ -48,7 +48,7 @@ Update path for output files.
 ## Expected Outputs  
 Trained Griffin-FF model  
 Trained Griffin-PE models   
-Figure 2G & 2H  
+Figure 3G & 2H  
 
 
 
