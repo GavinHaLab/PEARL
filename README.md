@@ -28,7 +28,16 @@ xgboost	|	1.6.1
 Meta data - Supplementary_Tables.xlsx  
 Features data - Raw_feature_tables.xlsx  
 
+## Generate Input files:
+```bash
+python reconstruct_metadata.py       # → Supplementary_Tables_v2.xlsx
+python reconstruct_raw_features.py   # → Raw_feature_tables.xlsx
+```
+
 ## Installation guide  
+```bash
+pip install -r requirements.txt
+```
 Load jupyter notebook in jupyterlab  
 
 ## Demo/ Instructions for use  
@@ -39,7 +48,7 @@ Update path for output files.
 ## Expected Outputs  
 Trained Griffin-FF model  
 Trained Griffin-PE models   
-Figure 2G & 2H  
+Figure 3G & 2H  
 
 
 
